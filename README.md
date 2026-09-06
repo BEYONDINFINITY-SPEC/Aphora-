@@ -1,2 +1,4 @@
 # Aphora-
-Aphora is a hackathon-built AI communication tool created by Team Beyond Infinity to help people with aphasia. Developed in VS Code using Claude, it features Visual Assist, Fragmented Typing, Camera object recognition, and Word Recovery. It provides context-aware suggestions from partial inputs to bridge thought-to-word gaps.
+Aphora — Words, reconnected
+
+Aphora is an AI-powered assistive app for people with aphasia — a language disorder that affects speaking, writing, or understanding language, often after a stroke. People with aphasia know what they want to say; the words just don't come out right. Aphora reconstructs their intended meaning and tracks communication patterns over time.
