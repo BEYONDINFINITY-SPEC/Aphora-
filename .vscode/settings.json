@@ -1,3 +1,0 @@
-{
-  "problems.excludeGlobPatterns": ["**/node_modules/**"]
-}
